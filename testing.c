@@ -2,6 +2,6 @@
 
 int main(){
 	printf("hi\n");
-	printf("wha af t is up\n");
+	printf("wha sec af t is up\n");
 	return 0;
 }
